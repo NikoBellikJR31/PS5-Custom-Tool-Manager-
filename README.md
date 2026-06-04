@@ -5,6 +5,12 @@ PS5 Custom Tool Manager V1 est une payload ELF autonome pour PS5, basee sur le t
 Elle lance une interface web locale sur la console pour scanner les jeux, apps et certains chemins systeme, puis modifier les icones, backgrounds, noms, visibilite, backups et fonts systeme.
   
 > Le tool V1 fonctionne ( tester sur ma 6.02 ) des bugs peuvent probablement arriver . Les fonctions V2 sont travaillees separement. ( Formes des icones…) bientôt terminer
+> 
+## Vidéo de démonstration
+
+Clique sur l’image pour voir la vidéo :
+
+[![Vidéo de démonstration](https://img.youtube.com/vi/S3fAEIKSf-M/hqdefault.jpg)](https://youtu.be/S3fAEIKSf-M)
 
 
 ## Lancement
