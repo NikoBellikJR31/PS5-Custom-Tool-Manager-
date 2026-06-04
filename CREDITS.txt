@@ -1,0 +1,52 @@
+
+Projet / concept original
+-------------------------
+
+Niko Bellik JR
+
+Concept original PS5 Icon Manager, logique de base du tool PC, chemins app/systeme, backups, remplacement icon0/pic0/pic1/pic2/save_data, renommage, chmod et workflow USB.
+
+
+Composants tiers utilises
+-------------------------
+
+SQLite
+
+Utilise pour lire et modifier app.db.
+SQLite est dans le domaine public selon le projet SQLite.
+Site: https://www.sqlite.org/
+
+bcdec.h
+
+Utilise pour decoder/preview certains fichiers DDS.
+Auteur: Sergii "iOrange" Kudlai
+Depot: https://github.com/iOrange/bcdec
+Licence upstream: MIT ou Unlicense, au choix selon le header original.
+Credits upstream bcdec :
+- Aras Pranckevicius (@aras-p)
+- Michael Schmidt (@RunDevelopment)
+- @linkmauve
+
+ps5-payload-sdk / toolchain
+
+SDK/toolchain utilise pour compiler l'ELF PS5.
+Depot: https://github.com/ps5-payload-dev/sdk
+
+Google Fonts
+
+Certaines fonts integrees dans l'ELF proviennent de Google Fonts et sont sous SIL Open Font License (OFL) selon leurs archives officielles.
+Families integrees:
+- Acme
+- Bangers
+- Berkshire Swash
+- Bitcount Grid Single
+- Great Vibes
+- Medula One
+- Pacifico
+- Permanent Marker
+- Sacramento
+- Shadows Into Light
+
+PlayStation, PS5 et les noms d'applications/systemes associes appartiennent a leurs ayants droit.
+Ce projet n'est pas affilie a Sony Interactive Entertainment.
+
