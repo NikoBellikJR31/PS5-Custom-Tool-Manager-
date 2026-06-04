@@ -1,0 +1,4 @@
+297824ceaf6ea53fde57550adf9b5c2fc44c63ef60e8196ab92d351d1615d9cb  PS5 Custom Tool Manager V1.elf
+89ed042444e7eba5c355a5cfb653221633f5ddf5524766ce4a52e3c9d8cffca5  PS5 Custom Tool Manager Launcher.bat
+
+
