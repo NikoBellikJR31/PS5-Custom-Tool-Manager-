@@ -16,7 +16,7 @@ Clique sur l’image pour voir la vidéo :
 ## Lancement
 
 1. Lance ton payload loader sur la PS5 9021
-2. Lance `PS5 Custom Tool Manager Launcher.bat` pour envoyer la payload 
+2. Lance `PS5 Custom Tool Manager Launcher.bat` pour envoyer la payload ou envoyer ou installer la payload selon votre choix de configs
 3. Envoie `PS5 Custom Tool Manager V1.elf` vers l'IP de ta PS5, vous rentrer juste votre IP
 4. Ouvre via le raccourci XMB ou la page web:
 
