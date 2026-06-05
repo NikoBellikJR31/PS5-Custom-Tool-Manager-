@@ -143,7 +143,7 @@ Le tool garde jusqu'a 5 backups par famille de fichier cible.
 - Garder des backups.
 - Ne pas couper la console pendant une modification DB, image ou font.
 - Le changement de font systeme est plus risque que le changement d'image.
-- Toujours faire `Backup fonts` avant d'appliquer une font custom.
+- Faire `Backup fonts` avant d'appliquer une font custom pour garder l original 
 - Le cache XMB peut garder certaines anciennes images jusqu'au redemarrage.
 
 
